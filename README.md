@@ -1,6 +1,6 @@
 Grundy-value-calculator is designed to compute the value of the Grundy function for proper 2-coloring game on trees resembling the following figure.
 
-![]()
+![image](https://github.com/Zireael775333728/grundy-value-calculator/blob/main/.readme/graph.png)
 
 # Usage:
 Compile it with gcc:
